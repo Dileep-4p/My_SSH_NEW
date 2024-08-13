@@ -1,7 +1,7 @@
 # This program subs two numbers
 
-a = 10
-b = 8
+a = 100
+b = 88
 
 # Add two numbers
 sub = a - b
